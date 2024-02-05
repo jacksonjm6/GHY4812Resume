@@ -1,7 +1,7 @@
 Jack Jackson
 =====
 
-<img src="/IMG_2206.jpeg">
+<img src="IMG_2206.jpeg">
 
 ##### Appalachian State University Recreation Management major, Geography Minor student. 
 
@@ -24,4 +24,4 @@ Sanborn Western Camps, Florissant, Colorado
  + Oversaw on-property horseback riding, hiking, and backpacking trips.
  * Improved work conditions, helping on Community Care Duty, setting up and taking down meals, sweeping the lodge, cleaning washhouses, and doing trash runs. 
 
- <img src="/IMG_6368.jpeg" width='500' height='500'>
+ <img src="IMG_6368.jpeg" width='500' height='500'>
